@@ -4,5 +4,3 @@ test gilde
 test finally
 start new test
 Mtt
-Gttttttt
-Min
